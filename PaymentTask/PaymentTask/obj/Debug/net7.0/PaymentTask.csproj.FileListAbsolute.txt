@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\PayTask\PaymentTask\PaymentTask\bin\Debug\net7.0\PaymentTask.exe
+C:\Users\hp\Desktop\PayTask\PaymentTask\PaymentTask\bin\Debug\net7.0\PaymentTask.deps.json
+C:\Users\hp\Desktop\PayTask\PaymentTask\PaymentTask\bin\Debug\net7.0\PaymentTask.runtimeconfig.json
+C:\Users\hp\Desktop\PayTask\PaymentTask\PaymentTask\bin\Debug\net7.0\PaymentTask.dll
+C:\Users\hp\Desktop\PayTask\PaymentTask\PaymentTask\bin\Debug\net7.0\PaymentTask.pdb
+C:\Users\hp\Desktop\PayTask\PaymentTask\PaymentTask\obj\Debug\net7.0\PaymentTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\PayTask\PaymentTask\PaymentTask\obj\Debug\net7.0\PaymentTask.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\PayTask\PaymentTask\PaymentTask\obj\Debug\net7.0\PaymentTask.AssemblyInfo.cs
+C:\Users\hp\Desktop\PayTask\PaymentTask\PaymentTask\obj\Debug\net7.0\PaymentTask.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\PayTask\PaymentTask\PaymentTask\obj\Debug\net7.0\PaymentTask.dll
+C:\Users\hp\Desktop\PayTask\PaymentTask\PaymentTask\obj\Debug\net7.0\refint\PaymentTask.dll
+C:\Users\hp\Desktop\PayTask\PaymentTask\PaymentTask\obj\Debug\net7.0\PaymentTask.pdb
+C:\Users\hp\Desktop\PayTask\PaymentTask\PaymentTask\obj\Debug\net7.0\PaymentTask.genruntimeconfig.cache
+C:\Users\hp\Desktop\PayTask\PaymentTask\PaymentTask\obj\Debug\net7.0\ref\PaymentTask.dll
